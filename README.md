@@ -28,9 +28,8 @@ Column Description:
 
 | Package | Version |
 | ------------- | ------------- |
-| pandas | version |
-| matplotlib | version  |
-| seaborn  | version  |
-| scipy  | version  |
-| numpy  | version  |
-| warnings | version  |
+| pandas | 1.5.3 |
+| matplotlib | 3.7.1  |
+| seaborn  | 0.12.2  |
+| scipy  | 1.10.1  |
+| numpy  | 1.24.2  |
